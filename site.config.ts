@@ -1,8 +1,8 @@
 import siteConfig from "./src/lib/config";
 
 const config = siteConfig({
-	title: "Dragonlord",
-	prologue: "Never say die！",
+	title: "Dragonlord X",
+	prologue: "Truth and beauty.Never say die.",
 	author: {
 		name: "Zilong Xiao",
 		email: "xiaozilongdhumath@126.com",
