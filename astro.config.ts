@@ -37,7 +37,7 @@ import ZeoSevenFonts from "./src/fonts/zeo-seven-fonts";
 
 // https://astro.build/config
 export default defineConfig({
-	site: "https://xiaozilongdhumath.github.io",
+	site: "https://dragonlord-xiao.github.io",
 	trailingSlash: "never",
 	i18n: {
 		...siteConfig.i18n,
