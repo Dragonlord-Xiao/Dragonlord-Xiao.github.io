@@ -290,3 +290,4 @@
 		clip-path: inset(0 0 0 0);
 	}
 }
+:root { --font-maple-mono-nf-cn: "Consolas", "Cascadia Code", monospace; --font-the-peak-font-plus: "Georgia", "STSong", serif; }
