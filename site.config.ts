@@ -1,14 +1,14 @@
 import siteConfig from "./src/lib/config";
 
 const config = siteConfig({
-	title: "我的博客",
-	prologue: "记录生活，分享技术与思考。",
+	title: "Dragonlord",
+	prologue: "Never say die！",
 	author: {
-		name: "Your Name",
-		email: "hi@your.mail",
-		link: "https://your.website"
+		name: "Zilong Xiao",
+		email: "xiaozilongdhumath@126.com",
+		link: "https://dragonlord-xiao.github.io/"
 	},
-	description: "记录生活、技术与思考。",
+	description: "在实践中学习！",
 	copyright: {
 		type: "CC BY-NC-ND 4.0",
 		year: "2026"
